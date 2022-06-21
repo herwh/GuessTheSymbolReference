@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7332cac6cf94f5f8c30bbd0fb58cea6, type: 3}
+  m_Name: Numbers
+  m_EditorClassIdentifier: 
+  _objectData:
+  - _spriteValue: 1
+    _sprite: {fileID: 1422184923334757970, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 2
+    _sprite: {fileID: 1808195818850983521, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 3
+    _sprite: {fileID: -7900951133411543555, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 4
+    _sprite: {fileID: 2267071060405275165, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 5
+    _sprite: {fileID: -7398325283844340781, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 6
+    _sprite: {fileID: -7015292045520539579, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 7
+    _sprite: {fileID: -675344402919758444, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: -90
+  - _spriteValue: 8
+    _sprite: {fileID: 3547489320769246608, guid: 9498ad673e6f46b4a8d50c498e45f393, type: 3}
+    _rotationAngle: -90
+  - _spriteValue: 9
+    _sprite: {fileID: -1155199509967091035, guid: 5ed76f4b87e2f8e4f9e21e38126341a5, type: 3}
+    _rotationAngle: 0
+  - _spriteValue: 10
+    _sprite: {fileID: 4142021021139464533, guid: d89914114f0b7bb4cae8a791fae4ea15, type: 3}
+    _rotationAngle: 0

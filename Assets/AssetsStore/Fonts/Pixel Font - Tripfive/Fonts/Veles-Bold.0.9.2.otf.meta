@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4f093b38a6292844fb670958a42aeace
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Veles
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 553892d6aef7cc545ad37ff61025b94c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

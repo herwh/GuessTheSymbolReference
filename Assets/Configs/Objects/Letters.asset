@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7332cac6cf94f5f8c30bbd0fb58cea6, type: 3}
+  m_Name: Letters
+  m_EditorClassIdentifier: 
+  _objectData:
+  - _spriteValue: A
+    _sprite: {fileID: 4963718625464178563, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: B
+    _sprite: {fileID: 7783457984840754399, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: C
+    _sprite: {fileID: 3234300448368640894, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: D
+    _sprite: {fileID: 7911670913450602933, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: E
+    _sprite: {fileID: 4652326554734856401, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: F
+    _sprite: {fileID: -6426668015567183463, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: G
+    _sprite: {fileID: 216406037199867053, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: H
+    _sprite: {fileID: -8235857483100294123, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: I
+    _sprite: {fileID: -3541686595128163680, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: J
+    _sprite: {fileID: -2756605603065543306, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: K
+    _sprite: {fileID: -1127063002332224934, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: L
+    _sprite: {fileID: -5901097786099144959, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: M
+    _sprite: {fileID: 3295844289267200183, guid: 33db7a66b82b1744bb658429fdc87fe7, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: N
+    _sprite: {fileID: 7112752472869403061, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: O
+    _sprite: {fileID: 5433449995169814141, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: P
+    _sprite: {fileID: -4252152113809563852, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: Q
+    _sprite: {fileID: -4447791616812998045, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: R
+    _sprite: {fileID: -6342808464625005154, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: S
+    _sprite: {fileID: 8083504644574312765, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: T
+    _sprite: {fileID: -4461999128152558772, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: U
+    _sprite: {fileID: 3270655726746431581, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: V
+    _sprite: {fileID: -2983290644488427326, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: W
+    _sprite: {fileID: -9165466868132007793, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: X
+    _sprite: {fileID: 4461586319009975920, guid: 42bff33bbae6ac44ea8de84accdd7f80, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: Y
+    _sprite: {fileID: -5001085640463096552, guid: 88708e4e4574d9848a0dfcb9d52ef2ce, type: 3}
+    _rotatationAngle: 0
+  - _spriteValue: Z
+    _sprite: {fileID: 3539555106843919260, guid: 88708e4e4574d9848a0dfcb9d52ef2ce, type: 3}
+    _rotatationAngle: 0
